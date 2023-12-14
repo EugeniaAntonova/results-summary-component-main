@@ -10,6 +10,7 @@ const createItem = (data) => {
 	const newItem = item.cloneNode(true);
 	newItem.classList.add(`${category.toLowerCase()}`);
 	newItem.querySelector('img').src = icon;
+	newItem.querySelector('img').alt = category;
 	newItem.querySelector('.category').textContent = category;
 	newItem.querySelector('.total').textContent = score;
 	list.appendChild(newItem);
