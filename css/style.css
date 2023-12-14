@@ -237,7 +237,7 @@ a.button.active {
 	position: absolute; 
 	bottom: 5px; left: 50%; 
 	transform: translateX(-50%); 
-	color: #f2f2f2;
+	color: #303b59;
 }
 
 .attribution a { 
@@ -268,9 +268,5 @@ a.button.active {
 	.summary .result-numbers {
 		width: 11rem;
 		height: 11rem;
-	}
-
-	.attribution {
-		color: #303b59;
 	}
 }
