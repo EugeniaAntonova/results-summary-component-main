@@ -2,21 +2,21 @@
 	font-family: 'HankenGrotesk';
 	font-style: normal;
 	font-weight: 500;
-	src: url('/assets/fonts/static/HankenGrotesk-Medium.ttf') format('ttf');
+	src: url('./assets/fonts/static/HankenGrotesk-Medium.ttf') format('ttf');
 	font-display: swap;
 }
 @font-face {
 	font-family: 'HankenGrotesk';
 	font-style: normal;
 	font-weight: 700;
-	src: url('/assets/fonts/static/HankenGrotesk-Bold.ttf') format('ttf');
+	src: url('./assets/fonts/static/HankenGrotesk-Bold.ttf') format('ttf');
 	font-display: swap;
 }
 @font-face {
 	font-family: 'HankenGrotesk';
 	font-style: normal;
 	font-weight: 800;
-	src: url('/assets/fonts/static/HankenGrotesk-ExtraBold.ttf') format('ttf');
+	src: url('./assets/fonts/static/HankenGrotesk-ExtraBold.ttf') format('ttf');
 	font-display: swap;
 }
 
